@@ -1,0 +1,24 @@
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.deps.json
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.pdb
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\MarioLikeGame.Model.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\MarioLikeGame.Model.pdb
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csprojAssemblyReference.cache
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csproj.CoreCompileInputs.cache
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.AssemblyInfoInputs.cache
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.AssemblyInfo.cs
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csproj.CopyComplete
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.pdb
+C:\VS\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.deps.json
+C:\VS\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.dll
+C:\VS\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.pdb
+C:\VS\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\MarioLikeGame.Model.dll
+C:\VS\MarioLikeGame\Mariolikegame.DAL\bin\Debug\netstandard2.0\MarioLikeGame.Model.pdb
+C:\VS\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csprojAssemblyReference.cache
+C:\VS\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csproj.CoreCompileInputs.cache
+C:\VS\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.AssemblyInfoInputs.cache
+C:\VS\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.AssemblyInfo.cs
+C:\VS\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csproj.CopyComplete
+C:\VS\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.dll
+C:\VS\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.pdb

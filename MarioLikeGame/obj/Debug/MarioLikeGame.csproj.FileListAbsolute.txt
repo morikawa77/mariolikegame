@@ -1,0 +1,244 @@
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.exe.config
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.exe
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.pdb
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csprojAssemblyReference.cache
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.frmTelaJogo.resources
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.Properties.Resources.resources
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.GenerateResource.cache
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.CoreCompileInputs.cache
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.exe
+C:\Vs\Alexandre\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.pdb
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.exe.config
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.exe
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.pdb
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csprojAssemblyReference.cache
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.frmTelaJogo.resources
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.Properties.Resources.resources
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.GenerateResource.cache
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.CoreCompileInputs.cache
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.exe
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.pdb
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.frmTelaInicial.resources
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\Interop.WMPLib.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.ResolveComReference.cache
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\netstandard.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.AppContext.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.Concurrent.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.NonGeneric.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.Specialized.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Console.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Data.Common.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Contracts.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Debug.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Process.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Tools.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Tracing.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Drawing.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Dynamic.Runtime.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Globalization.Calendars.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Globalization.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Globalization.Extensions.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.Compression.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.IsolatedStorage.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.Pipes.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.Expressions.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.Parallel.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.Queryable.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Http.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.NameResolution.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.NetworkInformation.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Ping.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Requests.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Security.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Sockets.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.WebSockets.Client.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.WebSockets.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.ObjectModel.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Reflection.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Reflection.Extensions.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Reflection.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Resources.Reader.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Resources.ResourceManager.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Resources.Writer.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Extensions.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Handles.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.InteropServices.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Numerics.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Claims.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Principal.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.SecureString.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Text.Encoding.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Text.RegularExpressions.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Overlapped.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Tasks.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Thread.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.ThreadPool.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Timer.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.ValueTuple.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.ReaderWriter.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XDocument.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XmlDocument.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XmlSerializer.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XPath.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\Mariolikegame.DAL.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.Model.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\System.Data.SqlClient.dll
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\Mariolikegame.DAL.pdb
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.Model.pdb
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.exe.config
+C:\VS\Jefferson\Projeto UC5\Game\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.CopyComplete
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.exe.config
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.exe
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.pdb
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\netstandard.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.AppContext.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.Concurrent.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.NonGeneric.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Collections.Specialized.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Console.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Data.Common.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Contracts.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Debug.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Process.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Tools.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Diagnostics.Tracing.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Drawing.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Dynamic.Runtime.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Globalization.Calendars.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Globalization.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Globalization.Extensions.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.Compression.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.IsolatedStorage.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.Pipes.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.Expressions.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.Parallel.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Linq.Queryable.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Http.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.NameResolution.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.NetworkInformation.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Ping.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Requests.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Security.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.Sockets.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.WebSockets.Client.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Net.WebSockets.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.ObjectModel.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Reflection.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Reflection.Extensions.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Reflection.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Resources.Reader.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Resources.ResourceManager.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Resources.Writer.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Extensions.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Handles.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.InteropServices.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Numerics.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Claims.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.Principal.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Security.SecureString.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Text.Encoding.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Text.RegularExpressions.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Overlapped.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Tasks.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Thread.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.ThreadPool.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Threading.Timer.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.ValueTuple.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.ReaderWriter.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XDocument.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XmlDocument.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XmlSerializer.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XPath.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\Mariolikegame.DAL.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.Model.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\System.Data.SqlClient.dll
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\Mariolikegame.DAL.pdb
+C:\VS\MarioLikeGame\MarioLikeGame\bin\Debug\MarioLikeGame.Model.pdb
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csprojAssemblyReference.cache
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.exe.config
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\Interop.WMPLib.dll
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.ResolveComReference.cache
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.frmTelaJogo.resources
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.frmTelaInicial.resources
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.Properties.Resources.resources
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.GenerateResource.cache
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.CoreCompileInputs.cache
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.csproj.CopyComplete
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.exe
+C:\VS\MarioLikeGame\MarioLikeGame\obj\Debug\MarioLikeGame.pdb
