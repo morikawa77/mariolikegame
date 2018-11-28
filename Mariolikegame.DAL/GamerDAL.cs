@@ -33,7 +33,7 @@ namespace Mariolikegame.DAL
             //Declarar Comando SQL
             SqlCommand comando = new SqlCommand();
             comando.Connection = conexao;
-            comando.CommandText = "INSERT INTO Placar (nome_Jogador, score_Jogador, data_Score)" +
+            comando.CommandText = "INSERT INTO Score (nome_Jogador, score_Jogador, data_Score)" +
                 "VALUES (@Nome,@Score,@Data);";
 
             //Criar os parametros
@@ -74,7 +74,7 @@ namespace Mariolikegame.DAL
             SqlCommand comando = new SqlCommand();
             comando.Connection = conexao;
             comando.CommandText = "SELECT TOP 10 id_Jogador, nome_Jogador, score_Jogador, data_Score " +
-                " FROM Placar ORDER BY score_Jogador DESC";
+                " FROM Score ORDER BY score_Jogador DESC";
 
             //Executar o comando
             try

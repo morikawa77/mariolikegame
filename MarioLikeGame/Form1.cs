@@ -44,9 +44,6 @@ namespace MarioLikeGame
         //Atributo responsavel pela velocidade de locomoçao do jogador
         public int velocidade = 10;
 
-        //Biblioteca do Windows Media Player
-        //WMPLib.WindowsMediaPlayer Tocador = new WMPLib.WindowsMediaPlayer();
-
         //Criar uma lista de midias
         List<System.Windows.Media.MediaPlayer> sounds = new List<System.Windows.Media.MediaPlayer>();
 
@@ -219,7 +216,7 @@ namespace MarioLikeGame
             if (ganhou)
             {
                 stopSound();
-                lblGameOver.Text = "Voce Venceu!";
+                lblGameOver.Text = "Você Venceu!";
                 pictureBox24.Visible = true;
                 playSound("smb_stage_clear.WAV");
             }
@@ -253,7 +250,7 @@ namespace MarioLikeGame
             }
             else
             {
-                placar.NomeJogador = "Desconhecido";
+                placar.NomeJogador = "Player 1";
             }
 
             placar.ScoreJogador = pontos;
@@ -297,28 +294,7 @@ namespace MarioLikeGame
             Application.Restart();
         }
 
-        //private void Audio(string caminho, string estadoMP)
-        //{
-        //    //Verifica se ocorreu erro ao instanciar o Windows media Player
-        //    Tocador.MediaError += new WMPLib._WMPOCXEvents_MediaErrorEventHandler(Tocador_MediaError);
-
-        //    Tocador.URL = caminho;
-        //    if(estadoMP.Equals("Play"))
-        //    {
-        //        Tocador.controls.play();
-        //    }
-        //    else if (estadoMP.Equals("Stop"))
-        //    {
-        //        Tocador.controls.stop();
-        //    }
-        //}
-
-        //private void Tocador_MediaError(object pMediaObject)
-        //{
-        //    MessageBox.Show("Não é possível executar o arquivo de mídia!");
-        //    this.Close();
-        //}
-
+        
         private void frmTelaJogo_Load(object sender, EventArgs e)
         {
             //Audio("01 overworld bgm.mp3", "Play"); 

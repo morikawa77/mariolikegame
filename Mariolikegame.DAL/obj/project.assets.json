@@ -1693,11 +1693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS\\MarioLikeGame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
       "projectName": "Mariolikegame.DAL",
-      "projectPath": "C:\\VS\\MarioLikeGame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
+      "projectPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
       "packagesPath": "C:\\Users\\reginaldo.morikawa\\.nuget\\packages\\",
-      "outputPath": "C:\\VS\\MarioLikeGame\\Mariolikegame.DAL\\obj\\",
+      "outputPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\Mariolikegame.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1716,8 +1716,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\VS\\MarioLikeGame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj": {
-              "projectPath": "C:\\VS\\MarioLikeGame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj"
+            "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj": {
+              "projectPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj"
             }
           }
         }

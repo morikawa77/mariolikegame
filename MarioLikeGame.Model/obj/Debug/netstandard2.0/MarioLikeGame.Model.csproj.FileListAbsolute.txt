@@ -16,3 +16,12 @@ C:\VS\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.M
 C:\VS\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.AssemblyInfo.cs
 C:\VS\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.dll
 C:\VS\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.pdb
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\bin\Debug\netstandard2.0\MarioLikeGame.Model.deps.json
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\bin\Debug\netstandard2.0\MarioLikeGame.Model.dll
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\bin\Debug\netstandard2.0\MarioLikeGame.Model.pdb
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.csprojAssemblyReference.cache
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.csproj.CoreCompileInputs.cache
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.AssemblyInfoInputs.cache
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.AssemblyInfo.cs
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.dll
+C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\MarioLikeGame.Model\obj\Debug\netstandard2.0\MarioLikeGame.Model.pdb

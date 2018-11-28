@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioLikeGame", "MarioLikeG
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarioLikeGame.Model", "MarioLikeGame.Model\MarioLikeGame.Model.csproj", "{279B4562-ADF2-42FD-BE78-378F8C706197}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mariolikegame.DAL", "Mariolikegame.DAL\Mariolikegame.DAL.csproj", "{23FF61E9-BC49-4BB4-A019-68C9F5577449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mariolikegame.DAL", "Mariolikegame.DAL\Mariolikegame.DAL.csproj", "{23FF61E9-BC49-4BB4-A019-68C9F5577449}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

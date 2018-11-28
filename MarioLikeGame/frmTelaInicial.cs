@@ -58,6 +58,8 @@ namespace MarioLikeGame
 
         private void frmTelaInicial_Load(object sender, EventArgs e)
         {
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
 
             PreencherGrid();
 
@@ -66,6 +68,9 @@ namespace MarioLikeGame
             txtNome.Select();
         }
 
-        
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
