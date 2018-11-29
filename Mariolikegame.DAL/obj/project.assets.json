@@ -684,11 +684,10 @@
       ]
     },
     "System.Data.SqlClient/4.4.3": {
-      "sha512": "NvG/0mC80diO0zXYt89gFC869Gn6aIn5Tx0HavxGa3IPbH2Ktflbw2HJvl24zmpAL0UF/bkGsI+jv0/aHX8dJw==",
+      "sha512": "D1hEOS1oPLJ6WcGCzpTWe8SauWVxnDoDTUWhv5XCNdRm/QeSUk4BQ3ZDe7BH+zNVHDBkPYjVzpVjnCl43eOSGg==",
       "type": "package",
       "path": "system.data.sqlclient/4.4.3",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -1693,11 +1692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\reginaldo.morikawa\\Desktop\\Reginaldo Morikawa\\mariolikegame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
       "projectName": "Mariolikegame.DAL",
-      "projectPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
+      "projectPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\Reginaldo Morikawa\\mariolikegame\\Mariolikegame.DAL\\Mariolikegame.DAL.csproj",
       "packagesPath": "C:\\Users\\reginaldo.morikawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\Mariolikegame.DAL\\obj\\",
+      "outputPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\Reginaldo Morikawa\\mariolikegame\\Mariolikegame.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1716,8 +1715,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj": {
-              "projectPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\MarioLikeGame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj"
+            "C:\\Users\\reginaldo.morikawa\\Desktop\\Reginaldo Morikawa\\mariolikegame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj": {
+              "projectPath": "C:\\Users\\reginaldo.morikawa\\Desktop\\Reginaldo Morikawa\\mariolikegame\\MarioLikeGame.Model\\MarioLikeGame.Model.csproj"
             }
           }
         }

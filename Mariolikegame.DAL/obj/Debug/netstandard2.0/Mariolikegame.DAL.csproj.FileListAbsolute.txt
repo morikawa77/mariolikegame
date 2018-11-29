@@ -34,3 +34,15 @@ C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\Mariolikegame.DAL\obj\Debug\ne
 C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csproj.CopyComplete
 C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.dll
 C:\Users\reginaldo.morikawa\Desktop\MarioLikeGame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.pdb
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.deps.json
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.dll
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\bin\Debug\netstandard2.0\Mariolikegame.DAL.pdb
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\bin\Debug\netstandard2.0\MarioLikeGame.Model.dll
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\bin\Debug\netstandard2.0\MarioLikeGame.Model.pdb
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csprojAssemblyReference.cache
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csproj.CoreCompileInputs.cache
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.AssemblyInfoInputs.cache
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.AssemblyInfo.cs
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.csproj.CopyComplete
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.dll
+C:\Users\reginaldo.morikawa\Desktop\Reginaldo Morikawa\mariolikegame\Mariolikegame.DAL\obj\Debug\netstandard2.0\Mariolikegame.DAL.pdb

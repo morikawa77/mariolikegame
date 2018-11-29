@@ -68,9 +68,36 @@ namespace MarioLikeGame
             txtNome.Select();
         }
 
-        private void btnSair_Click(object sender, EventArgs e)
+        
+
+        private void gbOpcoes_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnIniciar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSair_Click_1(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dgvListaRecorde_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
