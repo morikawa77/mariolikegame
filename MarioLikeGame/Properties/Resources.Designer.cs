@@ -163,6 +163,16 @@ namespace MarioLikeGame.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap mario_bg {
+            get {
+                object obj = ResourceManager.GetObject("mario_bg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap MarioSMBW {
             get {
                 object obj = ResourceManager.GetObject("MarioSMBW", resourceCulture);

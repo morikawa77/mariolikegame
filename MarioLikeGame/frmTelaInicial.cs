@@ -33,12 +33,12 @@ namespace MarioLikeGame
             //Listando a DAL
             dgvListaRecorde.DataSource = gamerDAL.Listar();
 
-            //Removendo a coluna id_Jogador
-            dgvListaRecorde.Columns.Remove("IdJogador");
+            
         }
         
 
-        private void txtIniciar_Click(object sender, EventArgs e)
+        //private void txtIniciar_Click(object sender, EventArgs e)
+        private void btnIniciar_Click(object sender, EventArgs e)
         {
             //Nao exibir a instancia atual da classe
             this.Visible = false;
@@ -62,6 +62,7 @@ namespace MarioLikeGame
             this.WindowState = FormWindowState.Maximized;
 
             PreencherGrid();
+            estilizarGrid();
 
             //Setar o foco para o TextBox: nome do jogador
             txtNome.Focus();
@@ -75,10 +76,7 @@ namespace MarioLikeGame
 
         }
 
-        private void btnIniciar_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void btnSair_Click_1(object sender, EventArgs e)
         {
@@ -97,7 +95,20 @@ namespace MarioLikeGame
 
         private void dgvListaRecorde_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            
+        }
 
+        private void estilizarGrid()
+        {
+            //Removendo a coluna id_Jogador
+            dgvListaRecorde.Columns.Remove("IdJogador");
+
+            this.dgvListaRecorde.Columns[0].HeaderText = "Nome do Jogador";
+            this.dgvListaRecorde.Columns[1].HeaderText = "Score";
+            this.dgvListaRecorde.Columns[2].HeaderText = "Data";
+            this.dgvListaRecorde.Columns[3].HeaderText = "Tempo";
+
+            //this.dgvListaRecorde.Rows[0].DefaultCellStyle.BackColor = Color.Crimson;
         }
     }
 }

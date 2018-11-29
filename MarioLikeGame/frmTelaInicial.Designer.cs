@@ -33,21 +33,21 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dgvListaRecorde = new System.Windows.Forms.DataGridView();
             this.pnlTelaInicialSup = new System.Windows.Forms.Panel();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.lblNomeJogo = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lblJogador = new System.Windows.Forms.Label();
             this.gbOpcoes = new System.Windows.Forms.GroupBox();
             this.btnSair = new System.Windows.Forms.Button();
             this.btnIniciar = new System.Windows.Forms.Button();
             this.txtNome = new System.Windows.Forms.TextBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.pbMario2 = new System.Windows.Forms.PictureBox();
             this.pbMario1 = new System.Windows.Forms.PictureBox();
-            this.lblNomeJogo = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaRecorde)).BeginInit();
             this.pnlTelaInicialSup.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.gbOpcoes.SuspendLayout();
-            this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).BeginInit();
             this.SuspendLayout();
@@ -65,7 +65,7 @@
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle1.ForeColor = System.Drawing.Color.DodgerBlue;
             dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.Crimson;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.White;
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvListaRecorde.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvListaRecorde.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -74,7 +74,7 @@
             dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
             dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Crimson;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.White;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvListaRecorde.DefaultCellStyle = dataGridViewCellStyle2;
             this.dgvListaRecorde.GridColor = System.Drawing.Color.DodgerBlue;
@@ -88,11 +88,11 @@
             dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle3.ForeColor = System.Drawing.Color.White;
             dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.Crimson;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.White;
             this.dgvListaRecorde.RowsDefaultCellStyle = dataGridViewCellStyle3;
             this.dgvListaRecorde.RowTemplate.Height = 50;
             this.dgvListaRecorde.RowTemplate.ReadOnly = true;
-            this.dgvListaRecorde.Size = new System.Drawing.Size(1100, 600);
+            this.dgvListaRecorde.Size = new System.Drawing.Size(1156, 600);
             this.dgvListaRecorde.TabIndex = 0;
             this.dgvListaRecorde.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvListaRecorde_CellContentClick);
             // 
@@ -107,6 +107,35 @@
             this.pnlTelaInicialSup.Name = "pnlTelaInicialSup";
             this.pnlTelaInicialSup.Size = new System.Drawing.Size(1167, 122);
             this.pnlTelaInicialSup.TabIndex = 1;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox2.Controls.Add(this.pbMario2);
+            this.groupBox2.Controls.Add(this.pbMario1);
+            this.groupBox2.Controls.Add(this.lblNomeJogo);
+            this.groupBox2.Location = new System.Drawing.Point(71, 11);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(0);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(928, 108);
+            this.groupBox2.TabIndex = 5;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
+            // 
+            // lblNomeJogo
+            // 
+            this.lblNomeJogo.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblNomeJogo.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNomeJogo.ForeColor = System.Drawing.Color.White;
+            this.lblNomeJogo.Location = new System.Drawing.Point(321, 17);
+            this.lblNomeJogo.Name = "lblNomeJogo";
+            this.lblNomeJogo.Size = new System.Drawing.Size(330, 76);
+            this.lblNomeJogo.TabIndex = 7;
+            this.lblNomeJogo.Text = "MarioLike";
             // 
             // groupBox1
             // 
@@ -178,21 +207,6 @@
             this.txtNome.TabIndex = 6;
             this.txtNome.Text = "Player 1";
             // 
-            // groupBox2
-            // 
-            this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.groupBox2.Controls.Add(this.pbMario2);
-            this.groupBox2.Controls.Add(this.pbMario1);
-            this.groupBox2.Controls.Add(this.lblNomeJogo);
-            this.groupBox2.Location = new System.Drawing.Point(71, 11);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(928, 108);
-            this.groupBox2.TabIndex = 5;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
-            // 
             // pbMario2
             // 
             this.pbMario2.Dock = System.Windows.Forms.DockStyle.Right;
@@ -215,19 +229,6 @@
             this.pbMario1.TabIndex = 5;
             this.pbMario1.TabStop = false;
             // 
-            // lblNomeJogo
-            // 
-            this.lblNomeJogo.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblNomeJogo.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNomeJogo.ForeColor = System.Drawing.Color.White;
-            this.lblNomeJogo.Location = new System.Drawing.Point(321, 17);
-            this.lblNomeJogo.Name = "lblNomeJogo";
-            this.lblNomeJogo.Size = new System.Drawing.Size(330, 76);
-            this.lblNomeJogo.TabIndex = 7;
-            this.lblNomeJogo.Text = "MarioLike";
-            // 
             // frmTelaInicial
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
@@ -246,10 +247,10 @@
             this.Load += new System.EventHandler(this.frmTelaInicial_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaRecorde)).EndInit();
             this.pnlTelaInicialSup.ResumeLayout(false);
+            this.groupBox2.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.gbOpcoes.ResumeLayout(false);
-            this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).EndInit();
             this.ResumeLayout(false);

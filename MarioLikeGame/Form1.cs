@@ -216,14 +216,14 @@ namespace MarioLikeGame
             if (ganhou)
             {
                 stopSound();
-                lblGameOver.Text = "Você Venceu!";
+                //lblGameOver.Text = "Você Venceu!";
                 pictureBox24.Visible = true;
                 playSound("smb_stage_clear.WAV");
             }
             else
             {
                 stopSound();
-                lblGameOver.Text = "GAME OVER";
+                //lblGameOver.Text = "GAME OVER";
                 pictureBox25.Visible = true;
                 playSound("smb_mariodie.WAV");
             }
@@ -255,6 +255,7 @@ namespace MarioLikeGame
 
             placar.ScoreJogador = pontos;
             placar.DataScoreJogador = DateTime.Now;
+            placar.Tempo = minutos.ToString("00") + ":" + segundos.ToString("00");
 
             //Chama a funcao inserir da DAL passando o objeto populado como parametro
             if (!gamerDAL.Inserir(placar))
@@ -320,7 +321,10 @@ namespace MarioLikeGame
             }
         }
 
-       
+        private void pictureBox26_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }
