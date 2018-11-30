@@ -255,7 +255,7 @@ namespace MarioLikeGame
 
             placar.ScoreJogador = pontos;
             placar.DataScoreJogador = DateTime.Now;
-            placar.Tempo = minutos.ToString("00") + ":" + segundos.ToString("00");
+            placar.TempoJogo = minutos.ToString("00") + ":" + segundos.ToString("00");
 
             //Chama a funcao inserir da DAL passando o objeto populado como parametro
             if (!gamerDAL.Inserir(placar))

@@ -22,14 +22,15 @@ namespace MarioLikeGame.Model
             NomeJogador = nomeJogador;
             ScoreJogador = scoreJogador;
             DataScoreJogador = dataScoreJogador;
-            Tempo = tempoJogo;
+            TempoJogo = tempoJogo;
         }
 
         public int IdJogador { get => idJogador; set => idJogador = value; }
         public string NomeJogador { get => nomeJogador; set => nomeJogador = value; }
         public int ScoreJogador { get => scoreJogador; set => scoreJogador = value; }
         public DateTime DataScoreJogador { get => dataScoreJogador; set => dataScoreJogador = value; }
-        public string Tempo { get => Tempo; set => Tempo = value; }
+        public string TempoJogo { get => tempoJogo; set => tempoJogo = value; }
+
        
     }
 }

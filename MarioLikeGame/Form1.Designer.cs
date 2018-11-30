@@ -174,6 +174,7 @@ namespace MarioLikeGame
             this.pictureBox26.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox26.BackColor = System.Drawing.SystemColors.Control;
             this.pictureBox26.Image = global::MarioLikeGame.Properties.Resources.mario_bg;
             this.pictureBox26.Location = new System.Drawing.Point(1308, 76);
             this.pictureBox26.Name = "pictureBox26";
@@ -475,6 +476,7 @@ namespace MarioLikeGame
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1692, 765);
+            this.Controls.Add(this.pictureBox25);
             this.Controls.Add(this.pictureBox26);
             this.Controls.Add(this.pictureBox24);
             this.Controls.Add(this.lblGameOver);
@@ -503,7 +505,6 @@ namespace MarioLikeGame
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.personagem);
             this.Controls.Add(this.pnlSuperior);
-            this.Controls.Add(this.pictureBox25);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.MinimizeBox = false;

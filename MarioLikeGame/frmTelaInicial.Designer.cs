@@ -34,6 +34,8 @@
             this.dgvListaRecorde = new System.Windows.Forms.DataGridView();
             this.pnlTelaInicialSup = new System.Windows.Forms.Panel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.pbMario2 = new System.Windows.Forms.PictureBox();
+            this.pbMario1 = new System.Windows.Forms.PictureBox();
             this.lblNomeJogo = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lblJogador = new System.Windows.Forms.Label();
@@ -41,15 +43,13 @@
             this.btnSair = new System.Windows.Forms.Button();
             this.btnIniciar = new System.Windows.Forms.Button();
             this.txtNome = new System.Windows.Forms.TextBox();
-            this.pbMario2 = new System.Windows.Forms.PictureBox();
-            this.pbMario1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaRecorde)).BeginInit();
             this.pnlTelaInicialSup.SuspendLayout();
             this.groupBox2.SuspendLayout();
-            this.groupBox1.SuspendLayout();
-            this.gbOpcoes.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).BeginInit();
+            this.groupBox1.SuspendLayout();
+            this.gbOpcoes.SuspendLayout();
             this.SuspendLayout();
             // 
             // dgvListaRecorde
@@ -92,7 +92,7 @@
             this.dgvListaRecorde.RowsDefaultCellStyle = dataGridViewCellStyle3;
             this.dgvListaRecorde.RowTemplate.Height = 50;
             this.dgvListaRecorde.RowTemplate.ReadOnly = true;
-            this.dgvListaRecorde.Size = new System.Drawing.Size(1156, 600);
+            this.dgvListaRecorde.Size = new System.Drawing.Size(1423, 640);
             this.dgvListaRecorde.TabIndex = 0;
             this.dgvListaRecorde.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvListaRecorde_CellContentClick);
             // 
@@ -123,6 +123,28 @@
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
+            // 
+            // pbMario2
+            // 
+            this.pbMario2.Dock = System.Windows.Forms.DockStyle.Right;
+            this.pbMario2.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
+            this.pbMario2.Location = new System.Drawing.Point(848, 16);
+            this.pbMario2.Name = "pbMario2";
+            this.pbMario2.Size = new System.Drawing.Size(77, 89);
+            this.pbMario2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbMario2.TabIndex = 6;
+            this.pbMario2.TabStop = false;
+            // 
+            // pbMario1
+            // 
+            this.pbMario1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.pbMario1.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
+            this.pbMario1.Location = new System.Drawing.Point(3, 16);
+            this.pbMario1.Name = "pbMario1";
+            this.pbMario1.Size = new System.Drawing.Size(77, 89);
+            this.pbMario1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbMario1.TabIndex = 5;
+            this.pbMario1.TabStop = false;
             // 
             // lblNomeJogo
             // 
@@ -202,32 +224,11 @@
             // 
             this.txtNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNome.Location = new System.Drawing.Point(100, 69);
+            this.txtNome.MaxLength = 20;
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(339, 53);
             this.txtNome.TabIndex = 6;
             this.txtNome.Text = "Player 1";
-            // 
-            // pbMario2
-            // 
-            this.pbMario2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.pbMario2.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
-            this.pbMario2.Location = new System.Drawing.Point(848, 16);
-            this.pbMario2.Name = "pbMario2";
-            this.pbMario2.Size = new System.Drawing.Size(77, 89);
-            this.pbMario2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbMario2.TabIndex = 6;
-            this.pbMario2.TabStop = false;
-            // 
-            // pbMario1
-            // 
-            this.pbMario1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pbMario1.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
-            this.pbMario1.Location = new System.Drawing.Point(3, 16);
-            this.pbMario1.Name = "pbMario1";
-            this.pbMario1.Size = new System.Drawing.Size(77, 89);
-            this.pbMario1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbMario1.TabIndex = 5;
-            this.pbMario1.TabStop = false;
             // 
             // frmTelaInicial
             // 
@@ -248,11 +249,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaRecorde)).EndInit();
             this.pnlTelaInicialSup.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.gbOpcoes.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -33,14 +33,14 @@ namespace Mariolikegame.DAL
             //Declarar Comando SQL
             SqlCommand comando = new SqlCommand();
             comando.Connection = conexao;
-            comando.CommandText = "INSERT INTO Score (nome_Jogador, score_Jogador, data_Score, tempo)" +
+            comando.CommandText = "INSERT INTO Score (nome_Jogador, score_Jogador, data_Score, tempo) " +
                 "VALUES (@Nome,@Score,@Data, @Tempo);";
 
             //Criar os parametros
             comando.Parameters.AddWithValue("@Nome",placar.NomeJogador);
             comando.Parameters.AddWithValue("@Score", placar.ScoreJogador);
             comando.Parameters.AddWithValue("@Data", placar.DataScoreJogador);
-            comando.Parameters.AddWithValue("@Tempo", placar.Tempo);
+            comando.Parameters.AddWithValue("@Tempo", placar.TempoJogo);
 
             //Executar o Comando
             try
@@ -95,7 +95,7 @@ namespace Mariolikegame.DAL
                     placar.NomeJogador = Convert.ToString(leitor["nome_Jogador"]);
                     placar.ScoreJogador = Convert.ToInt32(leitor["score_Jogador"]);
                     placar.DataScoreJogador = Convert.ToDateTime(leitor["data_Score"]);
-                    placar.Tempo = Convert.ToString(leitor["tempoJogo"]);
+                    placar.TempoJogo = Convert.ToString(leitor["tempo"]);
 
                     //Adicionar na lista
                     resultado.Add(placar);
