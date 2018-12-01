@@ -325,6 +325,11 @@ namespace MarioLikeGame
         {
 
         }
+
+        private void pictureBox27_Click(object sender, EventArgs e)
+        {
+            Application.Close();
+        }
     }
 
 }

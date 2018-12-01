@@ -40,18 +40,24 @@ namespace MarioLikeGame
         //private void txtIniciar_Click(object sender, EventArgs e)
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            //Nao exibir a instancia atual da classe
-            this.Visible = false;
-            //Criar uma nova instancia do frmTelaJogo()
-            var frm = new frmTelaJogo();
-            //Pega o nome do jogador e envia para o Form1
-            frm.nomeGamer = txtNome.Text;
-            //Exibir o Formulario
-            frm.ShowDialog();            
-            //Exibir a nova instancia da classe
-            this.Visible = true;
-            //Lista o DataGrid
-            PreencherGrid();
+            if (txtNome.Text.Trim() == string.Empty)
+            {
+                textBox1.Text = "PREENCHA SEU NOME!";
+            } else
+            {
+                //Nao exibir a instancia atual da classe
+                this.Visible = false;
+                //Criar uma nova instancia do frmTelaJogo()
+                var frm = new frmTelaJogo();
+                //Pega o nome do jogador e envia para o Form1
+                frm.nomeGamer = txtNome.Text;
+                //Exibir o Formulario
+                frm.ShowDialog();
+
+                //Lista o DataGrid
+                PreencherGrid();
+            }
+            
 
            
         }
@@ -107,8 +113,14 @@ namespace MarioLikeGame
             this.dgvListaRecorde.Columns[1].HeaderText = "Score";
             this.dgvListaRecorde.Columns[2].HeaderText = "Data";
             this.dgvListaRecorde.Columns[3].HeaderText = "Tempo";
-
             this.dgvListaRecorde.Rows[0].DefaultCellStyle.BackColor = Color.Crimson;
+            
+            
+        }
+
+        private void pnlTelaInicialSup_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

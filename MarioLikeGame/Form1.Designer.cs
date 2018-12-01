@@ -38,9 +38,9 @@ namespace MarioLikeGame
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.lblGameOver = new System.Windows.Forms.Label();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.pictureBox25 = new System.Windows.Forms.PictureBox();
             this.pictureBox26 = new System.Windows.Forms.PictureBox();
             this.pictureBox24 = new System.Windows.Forms.PictureBox();
-            this.pictureBox25 = new System.Windows.Forms.PictureBox();
             this.pictureBox17 = new System.Windows.Forms.PictureBox();
             this.pictureBox19 = new System.Windows.Forms.PictureBox();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
@@ -65,10 +65,11 @@ namespace MarioLikeGame
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.personagem = new System.Windows.Forms.PictureBox();
+            this.pictureBox27 = new System.Windows.Forms.PictureBox();
             this.pnlSuperior.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
@@ -93,6 +94,7 @@ namespace MarioLikeGame
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.personagem)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlSuperior
@@ -100,6 +102,7 @@ namespace MarioLikeGame
             this.pnlSuperior.AutoSize = true;
             this.pnlSuperior.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.pnlSuperior.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.pnlSuperior.Controls.Add(this.pictureBox27);
             this.pnlSuperior.Controls.Add(this.btnRestart);
             this.pnlSuperior.Controls.Add(this.lblPontos);
             this.pnlSuperior.Controls.Add(this.lblTempo);
@@ -169,12 +172,25 @@ namespace MarioLikeGame
             this.timer2.Interval = 1000;
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick_1);
             // 
+            // pictureBox25
+            // 
+            this.pictureBox25.Image = global::MarioLikeGame.Properties.Resources.tumblr_mdml8u6m3B1r0ne4fo1_500;
+            this.pictureBox25.Location = new System.Drawing.Point(324, 163);
+            this.pictureBox25.Name = "pictureBox25";
+            this.pictureBox25.Size = new System.Drawing.Size(500, 333);
+            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox25.TabIndex = 5;
+            this.pictureBox25.TabStop = false;
+            this.pictureBox25.Tag = "gameOver";
+            this.pictureBox25.Visible = false;
+            // 
             // pictureBox26
             // 
             this.pictureBox26.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox26.BackColor = System.Drawing.SystemColors.Control;
+            this.pictureBox26.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox26.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox26.Image = global::MarioLikeGame.Properties.Resources.mario_bg;
             this.pictureBox26.Location = new System.Drawing.Point(1308, 76);
             this.pictureBox26.Name = "pictureBox26";
@@ -195,18 +211,6 @@ namespace MarioLikeGame
             this.pictureBox24.TabStop = false;
             this.pictureBox24.Tag = "gameOver";
             this.pictureBox24.Visible = false;
-            // 
-            // pictureBox25
-            // 
-            this.pictureBox25.Image = global::MarioLikeGame.Properties.Resources.tumblr_mdml8u6m3B1r0ne4fo1_500;
-            this.pictureBox25.Location = new System.Drawing.Point(324, 163);
-            this.pictureBox25.Name = "pictureBox25";
-            this.pictureBox25.Size = new System.Drawing.Size(500, 333);
-            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
-            this.pictureBox25.TabIndex = 5;
-            this.pictureBox25.TabStop = false;
-            this.pictureBox25.Tag = "gameOver";
-            this.pictureBox25.Visible = false;
             // 
             // pictureBox17
             // 
@@ -288,9 +292,9 @@ namespace MarioLikeGame
             // pictureBox18
             // 
             this.pictureBox18.Image = global::MarioLikeGame.Properties.Resources.Blooper;
-            this.pictureBox18.Location = new System.Drawing.Point(933, 524);
+            this.pictureBox18.Location = new System.Drawing.Point(897, 524);
             this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(43, 50);
+            this.pictureBox18.Size = new System.Drawing.Size(42, 50);
             this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox18.TabIndex = 2;
             this.pictureBox18.TabStop = false;
@@ -471,10 +475,28 @@ namespace MarioLikeGame
             this.personagem.TabIndex = 1;
             this.personagem.TabStop = false;
             // 
+            // pictureBox27
+            // 
+            this.pictureBox27.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox27.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox27.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.pictureBox27.Image = global::MarioLikeGame.Properties.Resources.close;
+            this.pictureBox27.InitialImage = null;
+            this.pictureBox27.Location = new System.Drawing.Point(1623, 12);
+            this.pictureBox27.Name = "pictureBox27";
+            this.pictureBox27.Size = new System.Drawing.Size(57, 50);
+            this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox27.TabIndex = 2;
+            this.pictureBox27.TabStop = false;
+            this.pictureBox27.Click += new System.EventHandler(this.pictureBox27_Click);
+            // 
             // frmTelaJogo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1692, 765);
             this.Controls.Add(this.pictureBox25);
             this.Controls.Add(this.pictureBox26);
@@ -516,9 +538,9 @@ namespace MarioLikeGame
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.KeyisUp);
             this.pnlSuperior.ResumeLayout(false);
             this.pnlSuperior.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
@@ -543,6 +565,7 @@ namespace MarioLikeGame
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.personagem)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -584,6 +607,7 @@ namespace MarioLikeGame
         private System.Windows.Forms.PictureBox pictureBox24;
         private System.Windows.Forms.PictureBox pictureBox25;
         private PictureBox pictureBox26;
+        private PictureBox pictureBox27;
     }
 }
 

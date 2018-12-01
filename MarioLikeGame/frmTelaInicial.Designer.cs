@@ -28,14 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dgvListaRecorde = new System.Windows.Forms.DataGridView();
             this.pnlTelaInicialSup = new System.Windows.Forms.Panel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.pbMario2 = new System.Windows.Forms.PictureBox();
-            this.pbMario1 = new System.Windows.Forms.PictureBox();
             this.lblNomeJogo = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lblJogador = new System.Windows.Forms.Label();
@@ -43,13 +41,16 @@
             this.btnSair = new System.Windows.Forms.Button();
             this.btnIniciar = new System.Windows.Forms.Button();
             this.txtNome = new System.Windows.Forms.TextBox();
+            this.pbMario2 = new System.Windows.Forms.PictureBox();
+            this.pbMario1 = new System.Windows.Forms.PictureBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaRecorde)).BeginInit();
             this.pnlTelaInicialSup.SuspendLayout();
             this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.gbOpcoes.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvListaRecorde
@@ -60,36 +61,36 @@
             this.dgvListaRecorde.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvListaRecorde.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
             this.dgvListaRecorde.BackgroundColor = System.Drawing.Color.DodgerBlue;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.DodgerBlue;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.Crimson;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvListaRecorde.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle10.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle10.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle10.ForeColor = System.Drawing.Color.DodgerBlue;
+            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.Color.Crimson;
+            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvListaRecorde.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle10;
             this.dgvListaRecorde.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.DodgerBlue;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Crimson;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvListaRecorde.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle11.BackColor = System.Drawing.Color.DodgerBlue;
+            dataGridViewCellStyle11.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle11.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.Color.Crimson;
+            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvListaRecorde.DefaultCellStyle = dataGridViewCellStyle11;
             this.dgvListaRecorde.GridColor = System.Drawing.Color.DodgerBlue;
             this.dgvListaRecorde.Location = new System.Drawing.Point(5, 125);
             this.dgvListaRecorde.Name = "dgvListaRecorde";
             this.dgvListaRecorde.ReadOnly = true;
             this.dgvListaRecorde.RowHeadersVisible = false;
             this.dgvListaRecorde.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.DodgerBlue;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.Crimson;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.White;
-            this.dgvListaRecorde.RowsDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle12.BackColor = System.Drawing.Color.DodgerBlue;
+            dataGridViewCellStyle12.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle12.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle12.SelectionBackColor = System.Drawing.Color.Crimson;
+            dataGridViewCellStyle12.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvListaRecorde.RowsDefaultCellStyle = dataGridViewCellStyle12;
             this.dgvListaRecorde.RowTemplate.Height = 50;
             this.dgvListaRecorde.RowTemplate.ReadOnly = true;
             this.dgvListaRecorde.Size = new System.Drawing.Size(1423, 640);
@@ -107,12 +108,14 @@
             this.pnlTelaInicialSup.Name = "pnlTelaInicialSup";
             this.pnlTelaInicialSup.Size = new System.Drawing.Size(1167, 122);
             this.pnlTelaInicialSup.TabIndex = 1;
+            this.pnlTelaInicialSup.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlTelaInicialSup_Paint);
             // 
             // groupBox2
             // 
             this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.groupBox2.Controls.Add(this.pbMario2);
             this.groupBox2.Controls.Add(this.pbMario1);
             this.groupBox2.Controls.Add(this.lblNomeJogo);
@@ -123,28 +126,6 @@
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
-            // 
-            // pbMario2
-            // 
-            this.pbMario2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.pbMario2.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
-            this.pbMario2.Location = new System.Drawing.Point(848, 16);
-            this.pbMario2.Name = "pbMario2";
-            this.pbMario2.Size = new System.Drawing.Size(77, 89);
-            this.pbMario2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbMario2.TabIndex = 6;
-            this.pbMario2.TabStop = false;
-            // 
-            // pbMario1
-            // 
-            this.pbMario1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pbMario1.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
-            this.pbMario1.Location = new System.Drawing.Point(3, 16);
-            this.pbMario1.Name = "pbMario1";
-            this.pbMario1.Size = new System.Drawing.Size(77, 89);
-            this.pbMario1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbMario1.TabIndex = 5;
-            this.pbMario1.TabStop = false;
             // 
             // lblNomeJogo
             // 
@@ -158,11 +139,13 @@
             this.lblNomeJogo.Size = new System.Drawing.Size(330, 76);
             this.lblNomeJogo.TabIndex = 7;
             this.lblNomeJogo.Text = "MarioLike";
+            this.lblNomeJogo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // groupBox1
             // 
             this.groupBox1.AutoSize = true;
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.lblJogador);
             this.groupBox1.Controls.Add(this.gbOpcoes);
             this.groupBox1.Controls.Add(this.txtNome);
@@ -229,6 +212,37 @@
             this.txtNome.Size = new System.Drawing.Size(339, 53);
             this.txtNome.TabIndex = 6;
             this.txtNome.Text = "Player 1";
+            this.txtNome.WordWrap = false;
+            // 
+            // pbMario2
+            // 
+            this.pbMario2.Dock = System.Windows.Forms.DockStyle.Right;
+            this.pbMario2.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
+            this.pbMario2.Location = new System.Drawing.Point(848, 16);
+            this.pbMario2.Name = "pbMario2";
+            this.pbMario2.Size = new System.Drawing.Size(77, 89);
+            this.pbMario2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbMario2.TabIndex = 6;
+            this.pbMario2.TabStop = false;
+            // 
+            // pbMario1
+            // 
+            this.pbMario1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.pbMario1.Image = global::MarioLikeGame.Properties.Resources.MarioSMBW1;
+            this.pbMario1.Location = new System.Drawing.Point(3, 16);
+            this.pbMario1.Name = "pbMario1";
+            this.pbMario1.Size = new System.Drawing.Size(77, 89);
+            this.pbMario1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbMario1.TabIndex = 5;
+            this.pbMario1.TabStop = false;
+            // 
+            // textBox1
+            // 
+            this.textBox1.ForeColor = System.Drawing.Color.Red;
+            this.textBox1.Location = new System.Drawing.Point(83, 502);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(343, 20);
+            this.textBox1.TabIndex = 10;
             // 
             // frmTelaInicial
             // 
@@ -249,11 +263,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvListaRecorde)).EndInit();
             this.pnlTelaInicialSup.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.gbOpcoes.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pbMario2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbMario1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -273,5 +287,6 @@
         private System.Windows.Forms.PictureBox pbMario2;
         private System.Windows.Forms.PictureBox pbMario1;
         private System.Windows.Forms.Label lblNomeJogo;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
