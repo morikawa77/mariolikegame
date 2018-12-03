@@ -183,10 +183,8 @@ namespace MarioLikeGame
                             GameOver(vitoria);
                             RemovePictureBox();
                             GravaHiScore();
-
                         }
-
-                       
+                                               
                     }
                 }
                 
@@ -216,14 +214,12 @@ namespace MarioLikeGame
             if (ganhou)
             {
                 stopSound();
-                //lblGameOver.Text = "Você Venceu!";
                 pictureBox24.Visible = true;
                 playSound("smb_stage_clear.WAV");
             }
             else
             {
                 stopSound();
-                //lblGameOver.Text = "GAME OVER";
                 pictureBox25.Visible = true;
                 playSound("smb_mariodie.WAV");
             }
@@ -328,7 +324,12 @@ namespace MarioLikeGame
 
         private void pictureBox27_Click(object sender, EventArgs e)
         {
-            Application.Close();
+            Close();
+        }
+
+        private void lblPontos_Click(object sender, EventArgs e)
+        {
+
         }
     }
 
