@@ -113,7 +113,8 @@ namespace MarioLikeGame
             this.dgvListaRecorde.Columns[1].HeaderText = "Score";
             this.dgvListaRecorde.Columns[2].HeaderText = "Data";
             this.dgvListaRecorde.Columns[3].HeaderText = "Tempo";
-            if (dgvListaRecorde.Rows[0] != null)
+
+            if (dgvListaRecorde.Rows.Count != 0)
             {
                 this.dgvListaRecorde.Rows[0].DefaultCellStyle.BackColor = Color.Crimson;
             }
